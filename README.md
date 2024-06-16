@@ -3,6 +3,8 @@
 - ⚡ I'm: 23 years old,
 - 🌱 I’m currently learning Python
 
+- Self studying software engineering and computer science
+
 
 
 
