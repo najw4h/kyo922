@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kyo922
+- 👋 Hi, I’m @najwa
 - 👩 Pronouns: She/Her
 - ⚡ I'm: 23 years old,
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning cybersecurity & ethic hacking
 
 - Self studying programming and computer science.
 
